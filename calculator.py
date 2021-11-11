@@ -28,5 +28,3 @@ class Calculator:
         return result
 
 
-
-
